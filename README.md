@@ -1,5 +1,11 @@
 # Healthcare---Sales-and-marketing
 
+Refer to 
+ER Diagram - ER.pdf
+Dataset - Healthcare data.xlsx
+SQL Code - Healthcare_DBMS_project.sql
+
+Note : The data has been mocked and hence not to be conisdered as real data.
 
 Background – 
 
