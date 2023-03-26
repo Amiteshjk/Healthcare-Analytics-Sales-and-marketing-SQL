@@ -32,9 +32,9 @@ Entities –
 12.	Sales
 
 Questions - 
-1 - Find reps who have achieved their targets to incentivize 
-2 - Top HCPs with maximum prescription writing 
-3 - Top Territories with maximum sales
+1 - Find reps who have achieved their targets to incentivize , 
+2 - Top HCPs with maximum prescription writing , 
+3 - Top Territories with maximum sales , 
 4 - Market share by products
 
 
