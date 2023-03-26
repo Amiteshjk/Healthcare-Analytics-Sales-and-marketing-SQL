@@ -32,10 +32,10 @@ Entities –
 12.	Sales
 
 Questions - 
-## Question 1 - Find reps who have achieved their targets to incentivize 
-## Question 2 - Top HCPs with maximum prescription writing 
-## Question 3 - Top Territories with maximum sales
-## Question 4 - Market share by products
+1 - Find reps who have achieved their targets to incentivize 
+2 - Top HCPs with maximum prescription writing 
+3 - Top Territories with maximum sales
+4 - Market share by products
 
 
 Solution - Key insights for Business
@@ -47,6 +47,6 @@ Solution - Key insights for Business
 3.	Territories with maximum sales helps business to understand how their sales are in specific territory. With this they would be able to understand the kind of demographic information that plays a key role in why specific territories are doing well compared to others.
 
 4.	Market share of the products manufacturers by the client helps to re-prioritize and plan the budgets for the upcoming quarters in terms of strategy.
-![image](https://user-images.githubusercontent.com/22199677/227789774-061a67b1-cab3-4dc5-baca-c59dce58abf0.png)
+
 
 
